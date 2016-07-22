@@ -1,0 +1,6 @@
+hesap iþlemleri
+    Yeni Hesap Aç (HesapID(otomatik deðer verecez) , HesapNo(ACC + Rastgele(1000,10000) (not: ayný rakam gelmeyecek) , Hesap Açýlýþ Tarihi , Ad Soyad , Tc , Tel, Vadeli-Vadesiz)
+    Hesap Dökümü (Para iþlemleri)
+    Çýkýþ
+
+Dosya(HesapKartlarý.txt,HesapHareketleri.txt(hesap no ve hareket))

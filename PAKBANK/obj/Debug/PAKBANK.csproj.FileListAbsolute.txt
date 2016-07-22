@@ -1,0 +1,12 @@
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\7 Nisan\PAKBANK\PAKBANK\bin\Debug\PAKBANK.exe.config
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\7 Nisan\PAKBANK\PAKBANK\bin\Debug\PAKBANK.exe
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\7 Nisan\PAKBANK\PAKBANK\bin\Debug\PAKBANK.pdb
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\7 Nisan\PAKBANK\PAKBANK\obj\Debug\PAKBANK.csprojResolveAssemblyReference.cache
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\7 Nisan\PAKBANK\PAKBANK\obj\Debug\PAKBANK.Form1.resources
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\7 Nisan\PAKBANK\PAKBANK\obj\Debug\PAKBANK.Properties.Resources.resources
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\7 Nisan\PAKBANK\PAKBANK\obj\Debug\PAKBANK.csproj.GenerateResource.Cache
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\7 Nisan\PAKBANK\PAKBANK\obj\Debug\PAKBANK.exe
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\7 Nisan\PAKBANK\PAKBANK\obj\Debug\PAKBANK.pdb
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\7 Nisan\PAKBANK\PAKBANK\obj\Debug\PAKBANK.HesapAcilis.resources
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\7 Nisan\PAKBANK\PAKBANK\obj\Debug\PAKBANK.Hesaphareketi.resources
+C:\Users\ihsan\Desktop\wissen akademie yazılım geliştirici\7 Nisan\PAKBANK\PAKBANK\obj\Debug\PAKBANK.ParaYatirCek.resources
